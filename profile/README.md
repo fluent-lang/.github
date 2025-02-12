@@ -19,7 +19,7 @@ Fluent is a blazingly fast, statically-typed, blazingly-fast and compiled progra
 
 All the Fluent Language's source code is publicly available **under the GNU GPL-3.0**.
 The following links contain the source code of the Fluent toolchain. **Beware**, not
-all links may be available all the time. We sometimes keep a project private until it is
+all links may be available all the time. We sometimes keep some projects private until they are
 stable.
 
 - [The Fluent CLI](https://github.com/fluent-lang/Fluent)
